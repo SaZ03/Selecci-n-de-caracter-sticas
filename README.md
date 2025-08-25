@@ -1,5 +1,3 @@
-# Selección de características
-
 # Selección de Características - Vino Tinto
 
 El objetivo de este proyecto es generar un **modelo de regresión lineal múltiple** que contenga solamente las variables seleccionadas mediante un proceso de **selección hacia adelante (forward selection)** y un proceso de **eliminación hacia atrás (backward elimination)**, con el fin de predecir la calidad de vinos tintos.
